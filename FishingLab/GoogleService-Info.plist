@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>184421618342-famchuic195ja5u4mqdnvvt3lno3j02u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.184421618342-famchuic195ja5u4mqdnvvt3lno3j02u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>184421618342-vh8j10g2q02j5ub3ldukp43m6o5hjno2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkdjFszSfvJXXbyUrJSeO4cobiR7qU8zA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>184421618342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.self.my.unique.fishing.lab</string>
+	<key>PROJECT_ID</key>
+	<string>fishing-lab-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fishing-lab-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:184421618342:ios:f44fa03f08e55c415b1a67</string>
+</dict>
+</plist>
