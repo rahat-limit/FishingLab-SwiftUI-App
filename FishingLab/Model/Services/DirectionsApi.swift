@@ -13,8 +13,8 @@ import GoogleMaps
 class DirectionsApi {
     
     func fetchRoute(from origin: CLLocationCoordinate2D, to destination: CLLocationCoordinate2D, completion: @escaping (GMSPath?) -> Void) {
-        let apiKey = "AIzaSyDEys1a_R-rHWpFJp7GTPm8-Uf7f6Np3DE"
-//        let apiKey = ""
+        
+        let apiKey = ""
         let originString = "\(origin.latitude),\(origin.longitude)"
         let destinationString = "\(destination.latitude),\(destination.longitude)"
         

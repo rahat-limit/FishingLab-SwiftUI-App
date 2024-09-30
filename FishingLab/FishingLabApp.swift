@@ -13,8 +13,7 @@ import GoogleMaps
 import GooglePlaces
 
 class AppDelegate: NSObject, UIApplicationDelegate {
-    let GoogleApiKey = "AIzaSyDEys1a_R-rHWpFJp7GTPm8-Uf7f6Np3DE"
-//    let GoogleApiKey = ""
+    let GoogleApiKey = ""
     func application(_ application: UIApplication,
                      didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
         // Firebase init
